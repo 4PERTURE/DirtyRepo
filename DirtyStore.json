@@ -1,0 +1,20 @@
+{
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.leemin.Cowabunga",
+      "developerName": "sourcelocation & leminlimez",
+      "downloadURL": "https://github.com/leminlimez/Cowabunga/releases/download/v8.0.3/Cowabunga.ipa",
+      "iconURL": "https://user-images.githubusercontent.com/52459150/215552092-9dc1e029-da35-43da-867f-17279e3dc180.png",
+      "localizedDescription": "iOS 14.0-15.7.1 & 16.0-16.1.2 MacDirtyCow ToolBox",
+      "name": "Cowabunga",
+      "screenshotURLs": [
+        "https://github.com/leminlimez/Cowabunga/blob/main/Images/Home.PNG?raw=true",
+        "https://github.com/leminlimez/Cowabunga/blob/main/Images/Tools.PNG?raw=true"
+      ],
+      "version": "8.0.3",
+      "versionDate": "2023-02-18T12:00:00-01:00"
+    }
+  ],
+  "userInfo": {}
+}
