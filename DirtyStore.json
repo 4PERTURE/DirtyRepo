@@ -1,5 +1,6 @@
 {
   "name": "DirtyStore",
+  "identifier": "aperture.dirtystore",
   "sourceURL": "https://raw.githubusercontent.com/4PERTURE/DirtyStore/main/DirtyStore.json",
   "apps": [
     {
@@ -17,6 +18,5 @@
       "version": "8.0.3",
       "versionDate": "2023-02-18T12:00:00-01:00"
     }
-  ],
-  "userInfo": {}
+  ]
 }
