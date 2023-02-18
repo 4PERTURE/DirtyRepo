@@ -1,7 +1,6 @@
 {
-"name": "DirtyStore",
+  "name": "DirtyStore",
   "sourceURL": "https://raw.githubusercontent.com/4PERTURE/DirtyStore/main/DirtyStore.json",
-{
   "apps": [
     {
       "beta": false,
