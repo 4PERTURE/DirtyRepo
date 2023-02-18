@@ -19,6 +19,22 @@
       "version": "8.0.3",
       "versionDescription": "- Fixed crash when opening app with wifi\n\n - Update to the serverside that broke previous versions",
       "versionDate": "2023-02-14T12:00:00-01:00"
-    }
+    },
+	{
+	  "beta": false,
+      "bundleIdentifier": "com.nahtedetihw.Proof",
+      "developerName": "nahtedetihw",
+      "downloadURL": "https://github.com/nahtedetihw/Proof/releases/download/copyallbundleids/Proof.ipa",
+      "iconURL": "https://camo.githubusercontent.com/19ecf80504ed95601bb4f6dfa2bc8c31b33560c248998de2b809ed6d290bc950/68747470733a2f2f692e6962622e636f2f4e794a514234682f50726f6f662e706e67",
+      "localizedDescription": "View Bundle IDs on devices compatible with MacDirtyCow",
+      "name": "Proof",
+      "screenshotURLs": [
+        "https://media.idownloadblog.com/wp-content/uploads/2023/02/Proof-1522x1536.jpg"
+      ],
+      "size": 598141,
+      "version": "20230218",
+      "versionDescription": "- Fix tableView Header showing white, fix searchBar titles disappearing\n\n - Added copy all bundleIDs",
+      "versionDate": "2023-02-18T12:00:00-01:00"
+	 }
   ]
 }
