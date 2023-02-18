@@ -1,6 +1,6 @@
 {
-  "name": "DirtyStore",
-  "identifier": "aperture.dirtystore",
+  "name": "DirtyRepo",
+  "identifier": "aperture.repo",
   "sourceURL": "https://raw.githubusercontent.com/4PERTURE/DirtyStore/main/DirtyStore.json",
   "apps": [
     {
@@ -12,8 +12,9 @@
       "localizedDescription": "iOS 14.0-15.7.1 & 16.0-16.1.2 MacDirtyCow ToolBox",
       "name": "Cowabunga",
       "screenshotURLs": [
-        "https://github.com/leminlimez/Cowabunga/blob/main/Images/Home.PNG?raw=true",
-        "https://github.com/leminlimez/Cowabunga/blob/main/Images/Tools.PNG?raw=true"
+        "https://github.com/4PERTURE/DirtyRepo/blob/main/Screenshots/Cowabunga/IMG_5148.PNG?raw=true",
+        "https://github.com/4PERTURE/DirtyRepo/blob/main/Screenshots/Cowabunga/IMG_5149.PNG?raw=true",
+        "https://github.com/4PERTURE/DirtyRepo/blob/main/Screenshots/Cowabunga/IMG_5150.PNG?raw=true"
       ],
       "size": 13709675,
       "version": "8.0.3",
@@ -29,7 +30,8 @@
       "localizedDescription": "View Bundle IDs on devices compatible with MacDirtyCow",
       "name": "Proof",
       "screenshotURLs": [
-        "https://media.idownloadblog.com/wp-content/uploads/2023/02/Proof-1522x1536.jpg"
+        "https://github.com/4PERTURE/DirtyRepo/blob/main/Screenshots/Proof/IMG_5145.PNG?raw=true",
+        "https://github.com/4PERTURE/DirtyRepo/blob/main/Screenshots/Proof/IMG_5146.PNG?raw=true"
       ],
       "size": 598141,
       "version": "20230218",
