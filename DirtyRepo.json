@@ -37,6 +37,23 @@
       "version": "20230218",
       "versionDescription": "- Fix tableView Header showing white, fix searchBar titles disappearing\n\n - Added copy all bundleIDs",
       "versionDate": "2023-02-18T12:00:00-01:00"
+	 },
+	 {
+	  "beta": false,
+      "bundleIdentifier": "com.ginsudev.WDBFontOverwrite",
+      "developerName": "ginsudev",
+      "downloadURL": "https://github.com/ginsudev/WDBFontOverwrite/releases/download/v1.10.8/WDBFontOverwrite.ipa",
+      "iconURL": "https://github.com/ginsudev/WDBFontOverwrite/blob/main/WDBFontOverwrite/Assets.xcassets/AppIcon.appiconset/1024%201.png?raw=true",
+      "localizedDescription": "Proof-of-concept app to overwrite fonts on iOS using CVE-2022-46689.",
+      "name": "WDBFontOverwrite",
+      "screenshotURLs": [
+        "https://github.com/4PERTURE/DirtyRepo/blob/main/Screenshots/WDBFontOverwrite/IMG_5233.PNG?raw=true",
+		"https://github.com/4PERTURE/DirtyRepo/blob/main/Screenshots/WDBFontOverwrite/IMG_5234.PNG?raw=true"
+      ],
+      "size": 598141,
+      "version": "1.10.8",
+      "versionDescription": "- Updated grant_full_disk_access\n\n - Concurrency and code improvements/fixes",
+      "versionDate": "2023-02-11T12:00:00-01:00"
 	 }
   ]
 }
