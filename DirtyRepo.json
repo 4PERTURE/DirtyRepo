@@ -19,7 +19,7 @@
       "size": 20564509,
       "version": "8.0.4",
       "versionDescription": "- You can now change Cowabunga's app icon!\n\n - Added CC Module colors\n\n - Now saves springboard color choices\n\n - Added info buttons and icons in titles\n\n - Improved reliability of applying custom app icon themes\n\n - Fixed crash with custom operations\n\n - Fixed lock not applying\n\n - Fixed a crash when applying icon themes\n\n A fix to blurry icons is coming soon, stay tuned!",
-      "versionDate": "2023-02-19T12:00:00-00:00"
+      "versionDate": "2023-02-19T03:00:00-00:00"
     },
 	{
 	  "beta": false,
