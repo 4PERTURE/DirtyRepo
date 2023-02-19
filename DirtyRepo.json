@@ -7,7 +7,7 @@
       "beta": false,
       "bundleIdentifier": "com.leemin.Cowabunga",
       "developerName": "leminlimez & sourcelocation",
-      "downloadURL": "https://github.com/leminlimez/Cowabunga/releases/download/v8.0.3/Cowabunga.ipa",
+      "downloadURL": "https://github.com/leminlimez/Cowabunga/releases/download/v8.0.4/Cowabunga.ipa",
       "iconURL": "https://user-images.githubusercontent.com/52459150/215552092-9dc1e029-da35-43da-867f-17279e3dc180.png",
       "localizedDescription": "iOS 14.0-15.7.1 & 16.0-16.1.2 MacDirtyCow ToolBox",
       "name": "Cowabunga",
@@ -19,7 +19,7 @@
       "size": 20564509,
       "version": "8.0.4",
       "versionDescription": "- You can now change Cowabunga's app icon!\n\n - Added CC Module colors\n\n - Now saves springboard color choices\n\n - Added info buttons and icons in titles\n\n - Improved reliability of applying custom app icon themes\n\n - Fixed crash with custom operations\n\n - Fixed lock not applying\n\n - Fixed a crash when applying icon themes\n\n A fix to blurry icons is coming soon, stay tuned!",
-      "versionDate": "2023-02-19T03:00:00-00:00"
+      "versionDate": "2023-02-19T14:00:00-07:00"
     },
 	{
 	  "beta": false,
