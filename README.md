@@ -5,3 +5,4 @@ Included apps:
 - Cowabunga
 - Proof
 - WDBFontOverwrite
+- Filza

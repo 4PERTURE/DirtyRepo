@@ -54,6 +54,23 @@
       "version": "1.10.8",
       "versionDescription": "- Updated grant_full_disk_access\n\n - Concurrency and code improvements/fixes",
       "versionDate": "2023-02-11"
+	 },
+	 {
+	  "beta": false,
+      "bundleIdentifier": "com.tigisoftware.Filza",
+      "developerName": "Summit",
+      "downloadURL": "https://github.com/dbmz502/Filza_MacDirtyCow/releases/download/1.0.1/Filza_4.0_Patched_15.0-16.1.2.ipa",
+      "iconURL": "http://cydia.saurik.com/icon@2x/com.tigisoftware.filza.png",
+      "localizedDescription": "File manager patched for use with CVE-2022-46689",
+      "name": "Filza",
+      "screenshotURLs": [
+        "https://github.com/4PERTURE/DirtyRepo/blob/main/Screenshots/Filza/IMG_5244.PNG?raw=true",
+		"https://github.com/4PERTURE/DirtyRepo/blob/main/Screenshots/Filza/IMG_5245.PNG?raw=true"
+      ],
+      "size": 9474564,
+      "version": "1.0.1",
+      "versionDescription": "- Support arm64 and arm64e device iOS15.0-16.1.2",
+      "versionDate": "2023-01-30"
 	 }
   ]
 }
