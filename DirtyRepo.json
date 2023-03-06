@@ -7,7 +7,7 @@
       "beta": false,
       "bundleIdentifier": "com.leemin.Cowabunga",
       "developerName": "leminlimez & sourcelocation",
-      "downloadURL": "https://github.com/leminlimez/Cowabunga/releases/download/v8.0.5/Cowabunga.ipa",
+      "downloadURL": "https://github.com/leminlimez/Cowabunga/releases/latest/download/Cowabunga.ipa",
       "iconURL": "https://user-images.githubusercontent.com/52459150/215552092-9dc1e029-da35-43da-867f-17279e3dc180.png",
       "localizedDescription": "iOS 14.0-15.7.1 & 16.0-16.1.2 MacDirtyCow ToolBox",
       "name": "Cowabunga",
@@ -16,10 +16,10 @@
         "https://github.com/4PERTURE/DirtyRepo/blob/main/Screenshots/Cowabunga/IMG_5149.PNG?raw=true",
         "https://github.com/4PERTURE/DirtyRepo/blob/main/Screenshots/Cowabunga/IMG_5150.PNG?raw=true"
       ],
-      "size": 20553183,
-      "version": "8.0.5",
-      "versionDescription": "- Added screentime remover\n\n - Fixed status bar issue regarding DND\n\n - Removed screen resolution changer due to many issues\n\n - Some other minor fixes",
-      "versionDate": "2023-02-20"
+      "size": 21849343,
+      "version": "8.1.2",
+      "versionDescription": "- Cross compatibility between FileSwitcherPro and Cowabunga custom operations (importing .fsp files)\n\n - Safety implementations to importing custom operations\n\n - Removed screen resolution changer due to many issues\n\n - Imported operations are now disabled by default\n\n - Added warning for if an imported operation edits /var\n\n - Fixed resetting icon cache stuck on scheduling",
+      "versionDate": "2023-03-06"
     },
 	{
 	  "beta": false,
