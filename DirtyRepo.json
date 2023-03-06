@@ -91,7 +91,7 @@
 	 {
       "beta": true,
       "bundleIdentifier": "ca.bomberfish.ControlConfigTests",
-      "developerName": "BomberFish & sneakyf1sh",
+      "developerName": "BomberFish & f1shy-dev",
       "downloadURL": "https://github.com/BomberFish/ControlConfig/releases/download/v0.0.4-alpha/ControlConfig-0.0.4-alpha.ipa",
       "iconURL": "https://raw.githubusercontent.com/BomberFish/ControlConfig/1daa927adc3b914355390479141c9b767b98b6ba/ControlConfig/Assets.xcassets/AppIcon.appiconset/controlconfig.png",
       "localizedDescription": "Tool to change functionality of Control Center tiles. WIP. ",
