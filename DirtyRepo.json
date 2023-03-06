@@ -39,7 +39,7 @@
       "versionDate": "2023-02-18"
 	 },
 	 {
-	  "beta": false,
+      "beta": false,
       "bundleIdentifier": "com.ginsudev.WDBFontOverwrite",
       "developerName": "ginsudev",
       "downloadURL": "https://github.com/ginsudev/WDBFontOverwrite/releases/latest/download/WDBFontOverwrite.ipa",
@@ -56,7 +56,7 @@
       "versionDate": "2023-02-11"
 	 },
 	 {
-	  "beta": false,
+      "beta": false,
       "bundleIdentifier": "com.tigisoftware.Filza",
       "developerName": "Summit",
       "downloadURL": "https://github.com/dbmz502/Filza_MacDirtyCow/releases/latest/download/Filza_4.0_Patched_15.0-16.1.2.ipa",
@@ -73,7 +73,7 @@
       "versionDate": "2023-01-30"
 	 },
 	 {
-	  "beta": false,
+      "beta": false,
       "bundleIdentifier": "net.sourceloc.ResSet16",
       "developerName": "sourcelocation",
       "downloadURL": "https://github.com/sourcelocation/ResSet16/releases/latest/download/ResSet16-1.1.3.ipa",
