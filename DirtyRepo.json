@@ -33,10 +33,10 @@
         "https://github.com/4PERTURE/DirtyRepo/blob/main/Screenshots/Proof/IMG_5145.PNG?raw=true",
         "https://github.com/4PERTURE/DirtyRepo/blob/main/Screenshots/Proof/IMG_5146.PNG?raw=true"
       ],
-      "size": 598141,
-      "version": "20230218",
-      "versionDescription": "- Fix tableView Header showing white, fix searchBar titles disappearing\n\n - Added copy all bundleIDs",
-      "versionDate": "2023-02-18"
+      "size": 598202,
+      "version": "1.3",
+      "versionDescription": "- Fix alerts not presenting when searchController is active",
+      "versionDate": "2023-03-01"
 	 },
 	 {
       "beta": false,
